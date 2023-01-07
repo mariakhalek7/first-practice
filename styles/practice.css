@@ -100,5 +100,47 @@
     width: 400px;
     height: 300px;
 }
+.about-update{
+    margin-bottom:50px ;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+
+    
+
+
+}
+.donate-plan input{
+    margin-bottom:50px ;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    border: 0;
+    background-color: #e4d6d6;
+    height: 64px;
+    border-radius: 5px;
+
+
+}
+.form{
+    background-color: #d6a8a8;
+}
+.footer{
+    background-color: rgba(17, 17, 26, 0.966);
+}
+.footer .footer-title{
+    text-align: center;
+    color: #a56565;
+}
+.footer-des{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color: wheat;
+}
+.border{
+    border: 2px solid rgb(177, 69, 110) ;
+    background-color: #c7a9a9;
+}
 
 
