@@ -3,7 +3,7 @@
     font-family:'Open Sans', sans-serif ;
 }
 .bk-img{
-    background-image: url('/images/m-image/donation7.jpg');
+    background-image: url('../images/m-image/donation7.jpg');
     background-repeat: no-repeat;
     font-size: 22px;
     text-align: center;
